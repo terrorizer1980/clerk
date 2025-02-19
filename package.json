@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^17.9.2",
-    "probot": "^9.11.3"
+    "@octokit/rest": "^21.1.1",
+    "probot": "^11.0.0"
   },
   "devDependencies": {
     "@types/bunyan": "^1.8.6",
